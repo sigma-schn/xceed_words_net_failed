@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xceed.Products.Documents.Libraries.Full" Version="1.7.20371.1556" />
+  </ItemGroup>
+
+</Project>
